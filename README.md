@@ -1,6 +1,12 @@
 # Notes-InDesign
 Useful notes for InDesign.
 
+## Table of Contents
+
+* Folder Structure
+* Styles
+* Document Templates
+
 ## Folder Structure
 
 **InDesign/**
@@ -31,13 +37,13 @@ Different levels of headers for each document.
 * Text
 * 
 
-## Object Styles
+## Styles
 
-## Character Styles
+### Object Styles
 
-## Document Types
+### Character Styles
+
+### Document Types
 
 * Report
 * Presentation
-
-## 
