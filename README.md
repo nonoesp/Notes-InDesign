@@ -71,6 +71,8 @@ Different levels of headers for each document.
 
 ### Set Text Variables with JSON
 
+Document templates with multiple text variables can be quickly filled with data using JSON objects.
+
 ```JavaScript
 
 var settings = {title: 'Title',
