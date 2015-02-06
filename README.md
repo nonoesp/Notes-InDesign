@@ -19,6 +19,8 @@ Contains old versions of the InDesign document
 
 ### Headers
 
+Different levels of headers for each document.
+
 * H1
 * H2
 * H3
