@@ -23,4 +23,7 @@ Contains old versions of the InDesign document
 
 ## Document Types
 
+* Report
+* Presentation
+
 ## 
