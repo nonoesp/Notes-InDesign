@@ -7,6 +7,7 @@ Useful notes for InDesign.
 * Folder Structure
 * Styles
 * Document Templates
+* Workflows
 
 ## Folder Structure
 
@@ -65,3 +66,16 @@ Different levels of headers for each document.
 
 * Report
 * Presentation
+
+## Workflows
+
+### Set Text Variables with JSON
+
+```JavaScript
+
+var settings = {title: 'Title',
+		            subtitle: 'Your Subtitle Here'};
+
+app.activeDocument.textVariables.item("Title").variableOptions.contents = settings.title;
+app.activeDocument.textVariables.item("Subtitle").variableOptions.contents = settings.subtitle;
+```
