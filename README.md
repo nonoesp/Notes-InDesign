@@ -22,7 +22,14 @@ Contains the current PDF document, and old version in Archive/
 
 Contains old versions of the InDesign document
 
+## Styles
+
 ## Paragraph Styles
+
+### Case Scenarios
+
+* Copy text.
+* 
 
 ### Headers
 
@@ -34,11 +41,10 @@ Different levels of headers for each document.
 * H4
 * H5
 * H6
-
 * Text
-* 
-
-## Styles
+* Labels
+* Title
+* Subtitle
 
 ### Object Styles
 
