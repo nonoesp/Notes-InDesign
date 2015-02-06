@@ -29,7 +29,7 @@ Contains old versions of the InDesign document
 #### Case Scenarios
 
 * Type/ (text, blockquote, footnote)
-* Annotations/ (comment, dimension, label, work-in-progress)
+* Annotations/ (comment-printed, comment-not-printed, dimension, label)
 * Layout/ (header, footer)
 
 ### Headers
