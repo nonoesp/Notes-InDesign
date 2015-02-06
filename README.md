@@ -22,14 +22,15 @@ Contains the current PDF document, and old version in Archive/
 
 Contains old versions of the InDesign document
 
-## Styles
+### Styles
 
-## Paragraph Styles
+### Paragraph Styles
 
-### Case Scenarios
+#### Case Scenarios
 
-* Copy text.
-* 
+* Type/ (text, blockquote, footnote)
+* Annotations/ (comment, dimension, label, work-in-progress)
+* Layout/ (header, footer)
 
 ### Headers
 
@@ -48,7 +49,17 @@ Different levels of headers for each document.
 
 ### Object Styles
 
+#### Case Scenarios
+
+* Tags
+* Line Styles
+
 ### Character Styles
+
+#### Case Scenarios
+* Bold
+* Italic
+* Underline
 
 ### Document Types
 
